@@ -1,0 +1,6 @@
+name="aditya"
+goal="AI + Telegram"
+language="python"
+print("My name is",name)
+print("my goal is",goal)
+print("I am learning",language)
